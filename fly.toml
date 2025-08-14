@@ -1,4 +1,4 @@
-app = "my-webrtc-signal"
+app = "video-call-signal-2025"
 
 [build]
   builder = "heroku/buildpacks:20"
